@@ -43,3 +43,10 @@ ul {
     border-bottom: 1px solid transparent;
     color: #FFFFFF;
 }
+
+.navlogo {
+    max-height: 100px;
+    max-width: 100px;
+    margin-top: 20px;
+    justify-content: flex-start;
+}
